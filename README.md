@@ -4,14 +4,7 @@ Ce projet est une application frontend React pour la gestion des utilisateurs et
 
 ## Installation
 
-1. Clonez ce dépôt :
-   ```
-   git clone <url-du-repo>
-   ```
-2. Installez les dépendances :
-   ```
-   npm install
-   ```
+ Installez les dépendances :
 
 ## Lancement du projet
 
